@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+bower_components
+public/bundle.js
+public/style.css
+test/coverage/
+public/
+.happypack/
+.idea/
+jsconfig.json
+notas/
+.DS_Store
+.vscode
