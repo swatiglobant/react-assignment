@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Regular"
+    },
+    {
+      "id": 2,
+      "name": "Important"
+    },
+    {
+      "id": 3,
+      "name": "Urgent"
+    }
+  ],
+  "todos": [
+    {
+      "desc": "React",
+      "due": "2017-08-15T12:00:00.000Z",
+      "category": 1,
+      "completed": true,
+      "id": 1
+    },
+    {
+      "desc": "Task1",
+      "due": "2017-07-04T06:30:00.000Z",
+      "category": 3,
+      "completed": false,
+      "id": 2
+    },
+    {
+      "desc": "Task2",
+      "due": "2017-07-04T12:00:00.000Z",
+      "category": 2,
+      "completed": true,
+      "id": 3
+    },
+    {
+      "desc": "qqqq",
+      "due": null,
+      "category": 1,
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
